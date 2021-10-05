@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jobitt-demo/page/static/css/main.9fa450b1.chunk.css",
-    "main.js": "/jobitt-demo/page/static/js/main.28c60484.chunk.js",
-    "main.js.map": "/jobitt-demo/page/static/js/main.28c60484.chunk.js.map",
+    "main.css": "/jobitt-demo/page/static/css/main.f13ade6d.chunk.css",
+    "main.js": "/jobitt-demo/page/static/js/main.f848f129.chunk.js",
+    "main.js.map": "/jobitt-demo/page/static/js/main.f848f129.chunk.js.map",
     "runtime-main.js": "/jobitt-demo/page/static/js/runtime-main.b102bc34.js",
     "runtime-main.js.map": "/jobitt-demo/page/static/js/runtime-main.b102bc34.js.map",
     "static/css/2.d1529174.chunk.css": "/jobitt-demo/page/static/css/2.d1529174.chunk.css",
-    "static/js/2.31fc122a.chunk.js": "/jobitt-demo/page/static/js/2.31fc122a.chunk.js",
-    "static/js/2.31fc122a.chunk.js.map": "/jobitt-demo/page/static/js/2.31fc122a.chunk.js.map",
+    "static/js/2.939e45fa.chunk.js": "/jobitt-demo/page/static/js/2.939e45fa.chunk.js",
+    "static/js/2.939e45fa.chunk.js.map": "/jobitt-demo/page/static/js/2.939e45fa.chunk.js.map",
     "static/js/3.eee5aa97.chunk.js": "/jobitt-demo/page/static/js/3.eee5aa97.chunk.js",
     "static/js/3.eee5aa97.chunk.js.map": "/jobitt-demo/page/static/js/3.eee5aa97.chunk.js.map",
     "index.html": "/jobitt-demo/page/index.html",
     "static/css/2.d1529174.chunk.css.map": "/jobitt-demo/page/static/css/2.d1529174.chunk.css.map",
-    "static/css/main.9fa450b1.chunk.css.map": "/jobitt-demo/page/static/css/main.9fa450b1.chunk.css.map",
-    "static/js/2.31fc122a.chunk.js.LICENSE.txt": "/jobitt-demo/page/static/js/2.31fc122a.chunk.js.LICENSE.txt",
+    "static/css/main.f13ade6d.chunk.css.map": "/jobitt-demo/page/static/css/main.f13ade6d.chunk.css.map",
+    "static/js/2.939e45fa.chunk.js.LICENSE.txt": "/jobitt-demo/page/static/js/2.939e45fa.chunk.js.LICENSE.txt",
     "static/media/Delete.2995bbd3.svg": "/jobitt-demo/page/static/media/Delete.2995bbd3.svg",
     "static/media/Edit.07a1cf54.svg": "/jobitt-demo/page/static/media/Edit.07a1cf54.svg",
     "static/media/JOBITT - Web site 2021-07-30 18-46-02 1.8c03326d.png": "/jobitt-demo/page/static/media/JOBITT - Web site 2021-07-30 18-46-02 1.8c03326d.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.b102bc34.js",
     "static/css/2.d1529174.chunk.css",
-    "static/js/2.31fc122a.chunk.js",
-    "static/css/main.9fa450b1.chunk.css",
-    "static/js/main.28c60484.chunk.js"
+    "static/js/2.939e45fa.chunk.js",
+    "static/css/main.f13ade6d.chunk.css",
+    "static/js/main.f848f129.chunk.js"
   ]
 }
