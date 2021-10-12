@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jobitt-demo/page/static/css/main.f13ade6d.chunk.css",
-    "main.js": "/jobitt-demo/page/static/js/main.f848f129.chunk.js",
-    "main.js.map": "/jobitt-demo/page/static/js/main.f848f129.chunk.js.map",
-    "runtime-main.js": "/jobitt-demo/page/static/js/runtime-main.b102bc34.js",
-    "runtime-main.js.map": "/jobitt-demo/page/static/js/runtime-main.b102bc34.js.map",
+    "main.css": "/jobitt-demo/page/static/css/main.68928241.chunk.css",
+    "main.js": "/jobitt-demo/page/static/js/main.b5f1814b.chunk.js",
+    "main.js.map": "/jobitt-demo/page/static/js/main.b5f1814b.chunk.js.map",
+    "runtime-main.js": "/jobitt-demo/page/static/js/runtime-main.8dd4d2f1.js",
+    "runtime-main.js.map": "/jobitt-demo/page/static/js/runtime-main.8dd4d2f1.js.map",
     "static/css/2.d1529174.chunk.css": "/jobitt-demo/page/static/css/2.d1529174.chunk.css",
-    "static/js/2.939e45fa.chunk.js": "/jobitt-demo/page/static/js/2.939e45fa.chunk.js",
-    "static/js/2.939e45fa.chunk.js.map": "/jobitt-demo/page/static/js/2.939e45fa.chunk.js.map",
-    "static/js/3.eee5aa97.chunk.js": "/jobitt-demo/page/static/js/3.eee5aa97.chunk.js",
-    "static/js/3.eee5aa97.chunk.js.map": "/jobitt-demo/page/static/js/3.eee5aa97.chunk.js.map",
+    "static/js/2.e751cce1.chunk.js": "/jobitt-demo/page/static/js/2.e751cce1.chunk.js",
+    "static/js/2.e751cce1.chunk.js.map": "/jobitt-demo/page/static/js/2.e751cce1.chunk.js.map",
+    "static/js/3.8d8fdcd3.chunk.js": "/jobitt-demo/page/static/js/3.8d8fdcd3.chunk.js",
+    "static/js/3.8d8fdcd3.chunk.js.map": "/jobitt-demo/page/static/js/3.8d8fdcd3.chunk.js.map",
     "index.html": "/jobitt-demo/page/index.html",
     "static/css/2.d1529174.chunk.css.map": "/jobitt-demo/page/static/css/2.d1529174.chunk.css.map",
-    "static/css/main.f13ade6d.chunk.css.map": "/jobitt-demo/page/static/css/main.f13ade6d.chunk.css.map",
-    "static/js/2.939e45fa.chunk.js.LICENSE.txt": "/jobitt-demo/page/static/js/2.939e45fa.chunk.js.LICENSE.txt",
+    "static/css/main.68928241.chunk.css.map": "/jobitt-demo/page/static/css/main.68928241.chunk.css.map",
+    "static/js/2.e751cce1.chunk.js.LICENSE.txt": "/jobitt-demo/page/static/js/2.e751cce1.chunk.js.LICENSE.txt",
     "static/media/Delete.2995bbd3.svg": "/jobitt-demo/page/static/media/Delete.2995bbd3.svg",
     "static/media/Edit.07a1cf54.svg": "/jobitt-demo/page/static/media/Edit.07a1cf54.svg",
     "static/media/JOBITT - Web site 2021-07-30 18-46-02 1.8c03326d.png": "/jobitt-demo/page/static/media/JOBITT - Web site 2021-07-30 18-46-02 1.8c03326d.png",
@@ -22,13 +22,14 @@
     "static/media/creating-section.css": "/jobitt-demo/page/static/media/upload-icon.1e1cedcd.svg",
     "static/media/start-window.css": "/jobitt-demo/page/static/media/right-arrow.40f4da39.svg",
     "static/media/logo.1a9413c3.svg": "/jobitt-demo/page/static/media/logo.1a9413c3.svg",
+    "static/media/header.css": "/jobitt-demo/page/static/media/man.118f79ff.svg",
     "static/media/slick-theme.css": "/jobitt-demo/page/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b102bc34.js",
+    "static/js/runtime-main.8dd4d2f1.js",
     "static/css/2.d1529174.chunk.css",
-    "static/js/2.939e45fa.chunk.js",
-    "static/css/main.f13ade6d.chunk.css",
-    "static/js/main.f848f129.chunk.js"
+    "static/js/2.e751cce1.chunk.js",
+    "static/css/main.68928241.chunk.css",
+    "static/js/main.b5f1814b.chunk.js"
   ]
 }
