@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jobitt-demo/page/static/css/main.68928241.chunk.css",
-    "main.js": "/jobitt-demo/page/static/js/main.de7ef21e.chunk.js",
-    "main.js.map": "/jobitt-demo/page/static/js/main.de7ef21e.chunk.js.map",
+    "main.js": "/jobitt-demo/page/static/js/main.a30ee9b7.chunk.js",
+    "main.js.map": "/jobitt-demo/page/static/js/main.a30ee9b7.chunk.js.map",
     "runtime-main.js": "/jobitt-demo/page/static/js/runtime-main.8dd4d2f1.js",
     "runtime-main.js.map": "/jobitt-demo/page/static/js/runtime-main.8dd4d2f1.js.map",
     "static/css/2.d1529174.chunk.css": "/jobitt-demo/page/static/css/2.d1529174.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.d1529174.chunk.css",
     "static/js/2.e751cce1.chunk.js",
     "static/css/main.68928241.chunk.css",
-    "static/js/main.de7ef21e.chunk.js"
+    "static/js/main.a30ee9b7.chunk.js"
   ]
 }
