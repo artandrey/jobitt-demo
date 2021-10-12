@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jobitt-demo/page/static/css/main.3ebf7756.chunk.css",
+    "main.css": "/jobitt-demo/page/static/css/main.003fe621.chunk.css",
     "main.js": "/jobitt-demo/page/static/js/main.50a77adf.chunk.js",
     "main.js.map": "/jobitt-demo/page/static/js/main.50a77adf.chunk.js.map",
     "runtime-main.js": "/jobitt-demo/page/static/js/runtime-main.8dd4d2f1.js",
@@ -12,7 +12,7 @@
     "static/js/3.8d8fdcd3.chunk.js.map": "/jobitt-demo/page/static/js/3.8d8fdcd3.chunk.js.map",
     "index.html": "/jobitt-demo/page/index.html",
     "static/css/2.d1529174.chunk.css.map": "/jobitt-demo/page/static/css/2.d1529174.chunk.css.map",
-    "static/css/main.3ebf7756.chunk.css.map": "/jobitt-demo/page/static/css/main.3ebf7756.chunk.css.map",
+    "static/css/main.003fe621.chunk.css.map": "/jobitt-demo/page/static/css/main.003fe621.chunk.css.map",
     "static/js/2.e751cce1.chunk.js.LICENSE.txt": "/jobitt-demo/page/static/js/2.e751cce1.chunk.js.LICENSE.txt",
     "static/media/Delete.2995bbd3.svg": "/jobitt-demo/page/static/media/Delete.2995bbd3.svg",
     "static/media/Edit.07a1cf54.svg": "/jobitt-demo/page/static/media/Edit.07a1cf54.svg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.8dd4d2f1.js",
     "static/css/2.d1529174.chunk.css",
     "static/js/2.e751cce1.chunk.js",
-    "static/css/main.3ebf7756.chunk.css",
+    "static/css/main.003fe621.chunk.css",
     "static/js/main.50a77adf.chunk.js"
   ]
 }
